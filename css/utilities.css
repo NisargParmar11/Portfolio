@@ -158,6 +158,9 @@ h2::selection {
 .card:nth-child(5) {
   background: url(../assets/project/ansys.jpg) center center/cover;
 }
+.card:nth-child(6) {
+  background: url(../assets/project/hero1.jpg) center center/cover;
+}
 
 
 
