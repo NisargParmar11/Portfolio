@@ -161,6 +161,12 @@ h2::selection {
 .card:nth-child(6) {
   background: url(../assets/project/hero1.jpg) center center/cover;
 }
+.card:nth-child(7) {
+  background: url(../assets/project/pencil.png) center center/cover;
+}
+.card:nth-child(8) {
+  background: url(../assets/project/OEVLX30.jpg) center center/cover;
+}
 
 
 
